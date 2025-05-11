@@ -44,7 +44,7 @@
         <!-- Google Maps API Key -->
         <meta-data
             android:name="AndroidManifest.xml"
-            android:value="AIzaSyDDEOjGjOthB5XcHke4wI8XBe57DWe9JN0" />
+            android:value="AIzaSyDDEOjGjOthB5XcHke4wI8XBe57DWe9JN" />
 
         <!-- Firebase Auto-initialization -->
         <meta-data
